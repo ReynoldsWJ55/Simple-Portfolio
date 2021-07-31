@@ -2,6 +2,8 @@
 
 Simple portfolio to host beginner projects.
 
+[Will Reynolds | Web Developer](https://reynoldswj55dev.netlify.app/)
+
 ## Steps
 
 - Created repository on GitHub
