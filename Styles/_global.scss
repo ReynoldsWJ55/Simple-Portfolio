@@ -39,3 +39,8 @@ a {
   text-decoration: none;
   color: $gray-text;
 }
+
+a:hover {
+  color: $hover;
+  text-decoration: underline;
+}
