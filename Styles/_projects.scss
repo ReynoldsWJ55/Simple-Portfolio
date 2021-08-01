@@ -1,0 +1,41 @@
+.main-head {
+  width: 90%;
+  margin: auto;
+}
+
+.projects {
+  width: 90%;
+  margin: auto;
+  min-height: 90vh;
+  @include flex(space-between, center, row);
+  flex-wrap: wrap;
+  img {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 2rem 0rem;
+  }
+  h2 {
+    text-decoration: underline;
+    text-transform: uppercase;
+  }
+  p {
+    font-size: 2rem;
+    margin: 1rem 0;
+  }
+}
+
+.travelly,
+.lorem {
+  flex: 1 1 40rem;
+  text-align: center;
+  padding: 4rem;
+  flex-wrap: wrap;
+}
+
+.projects a {
+  font-size: 2rem;
+  padding: 1rem;
+  margin-top: 10rem;
+  color: rgb(0, 0, 53);
+}

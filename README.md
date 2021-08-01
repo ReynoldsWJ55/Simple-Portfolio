@@ -1,8 +1,8 @@
 # Simple-Portfolio
 
-Simple portfolio to host beginner projects.
+Simple portfolio to host my beginner projects. In this project I used SASS to write CSS and this was my first multi-page project.
 
-[Will Reynolds | Web Developer](https://reynoldswj55dev.netlify.app/)
+[Will Reynolds | Web Developer - Simple Portfolio](https://reynoldswj55dev.netlify.app/)
 
 ## Steps
 

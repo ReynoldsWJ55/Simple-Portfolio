@@ -268,6 +268,67 @@ intro-images {
   }
 }
 
+.main-head {
+  width: 90%;
+  margin: auto;
+}
+
+.projects {
+  width: 90%;
+  margin: auto;
+  min-height: 90vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.projects img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 2rem 0rem;
+}
+
+.projects h2 {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.projects p {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+.travelly,
+.lorem {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 40rem;
+          flex: 1 1 40rem;
+  text-align: center;
+  padding: 4rem;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.projects a {
+  font-size: 2rem;
+  padding: 1rem;
+  margin-top: 10rem;
+  color: #000035;
+}
+
 @media screen and (max-width: 1332px) {
   html {
     font-size: 50%;
