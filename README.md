@@ -9,6 +9,7 @@ Simple portfolio to host my beginner projects. In this project, I used SASS to w
 - Created repository on GitHub
 - Created HTML and CSS pages
 - Styled icons with Figma
+- Deployed project to Netlify
 
 ## Project Preview!
 
@@ -23,7 +24,8 @@ Simple portfolio to host my beginner projects. In this project, I used SASS to w
 
 #### Contact Section
 
-##### coming soon...
+![Screen Shot 2021-08-07 at 5 45 46 PM](https://user-images.githubusercontent.com/65702910/128597918-4c49feb6-ae1b-429a-ac37-e3db46620f05.jpg)
+
 
 # Contact
 
